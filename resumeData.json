@@ -1,0 +1,181 @@
+{
+  "main": {
+    "name": "Joseph Benoy",
+    "occupation": "Software developer",
+    "description": "A motivated individual with in-depth knowledge of languages and development tools, seeking a position in a growth-oriented organization where I can use my skills to the advantage of the company while having the scope to develop my own skills.",
+    "image": "profilepic.jpg",
+    "bio": "I am a full stack developer with practical knowledge and keen interest and passion to dive deeper into the industry. I specializes in using Java, PHP, and nodeJs to build customer facing APIs, and also has experience integrating payment systems.",
+    "contactmessage": "Feel free to connect.",
+    "email": "josephbenoy03@gmail.com",
+    "phone": "8086542888",
+    "address": {
+      "street": "Calicut",
+      "city": "Kerala",
+      "state": "India",
+      "zip": "673526"
+    },
+    "website": "http://josephbenoy.me",
+    "resumedownload": "https://drive.google.com/file/d/1np_2QpaapOQTpaQqUj4tpoCsIxQ7IJRG/view",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/joseph.benoy.erurickal",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/JosephBenoy_dev",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/joseph-benoy/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/joseph_benoy.eroorickal",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/joseph-benoy",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "These is my toolset under the hood",
+    "education": [
+      {
+        "school": "BVM Holy Cross College, Cherpunkal",
+        "degree": "Bachelor of Computer Applications",
+        "graduated": "April 2022",
+        "description": "Persuing bachelor of computer applications presently."
+      },
+      {
+        "school": "St. George Higher Secondary School, Kulathuvayal",
+        "degree": "Higher Secondary",
+        "graduated": "March 2019",
+        "description": "Completed higher secondary education with physics ,mathematics ,chemistry and biology as core subjects"
+      }
+    ],
+    "work": [
+
+    ],
+    "skills": [
+      {
+        "name": "c",
+        "level": "80%"
+      },
+      {
+        "name": "python",
+        "level": "85%"
+      },
+      {
+        "name": "C++",
+        "level": "60%"
+      },
+      {
+        "name": "Java",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "80%"
+      },
+      {
+        "name": "Material Ui",
+        "level": "80%"
+      },
+      {
+        "name": "Express",
+        "level": "60%"
+      },
+      {
+        "name": "TypeScript",
+        "level": "70%"
+      },
+      {
+        "name": "Heroku",
+        "level": "90%"
+      },
+      {
+        "name": "Amazon EC2",
+        "level": "60%"
+      },      
+      {
+        "name": "Redis",
+        "level": "90%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "MySql",
+        "level": "80%"
+      },
+      {
+        "name": "Postgresql",
+        "level": "80%"
+      },
+      {
+        "name": "sqlite",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Cowin tracker",
+        "category": "Cowin vaccine availablity tracker",
+        "image": "cowinb.jpg",
+        "url": "https://github.com/joseph-benoy/cowin-tracker"
+      },
+      {
+        "title": "J-Weather",
+        "category": "Weather information web app",
+        "image": "1.png",
+        "url": "https://jweathers.herokuapp.com/"
+      },
+      {
+        "title": "JTranslate",
+        "category": "Document editor with language translater feature",
+        "image": "QTranslate-interface.png",
+        "url": "https://github.com/joseph-benoy/JTranslate"
+      },
+      {
+        "title": "Tubeload",
+        "category": "GUI package to download videos from websites",
+        "image": "download-7105085d68424c93a47bcc6228d946fa.png",
+        "url": "https://github.com/joseph-benoy/TubeLoad"
+      },
+      {
+        "title": "Easy polls",
+        "category": "Online polls aggregator",
+        "image": "online-poll-maker_29356e0b49.jpg",
+        "url": "https://github.com/joseph-benoy/easy-polls"
+      },
+     {
+        "title": "Diary",
+        "category": "Personal day-to-day diary application",
+        "image": "login.png",
+        "url": "https://github.com/joseph-benoy/diary"
+      }
+    ]
+  }
+}
