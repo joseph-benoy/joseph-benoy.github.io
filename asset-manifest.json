@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/joseph-benoy.github.io/static/css/main.bab0b925.chunk.css",
+    "main.js": "/joseph-benoy.github.io/static/js/main.bf8df1b1.chunk.js",
+    "main.js.map": "/joseph-benoy.github.io/static/js/main.bf8df1b1.chunk.js.map",
+    "runtime-main.js": "/joseph-benoy.github.io/static/js/runtime-main.b7eacb39.js",
+    "runtime-main.js.map": "/joseph-benoy.github.io/static/js/runtime-main.b7eacb39.js.map",
+    "static/js/2.47e0ceee.chunk.js": "/joseph-benoy.github.io/static/js/2.47e0ceee.chunk.js",
+    "static/js/2.47e0ceee.chunk.js.map": "/joseph-benoy.github.io/static/js/2.47e0ceee.chunk.js.map",
+    "index.html": "/joseph-benoy.github.io/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/joseph-benoy.github.io/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.47e0ceee.chunk.js.LICENSE.txt": "/joseph-benoy.github.io/static/js/2.47e0ceee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7eacb39.js",
+    "static/js/2.47e0ceee.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.bf8df1b1.chunk.js"
+  ]
+}
